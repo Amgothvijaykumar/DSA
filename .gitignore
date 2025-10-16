@@ -1,0 +1,26 @@
+*.class
+# Compiled class files
+bin/
+build/
+out/
+target/
+
+# OSX
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Maven
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/

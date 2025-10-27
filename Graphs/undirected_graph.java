@@ -18,6 +18,7 @@ public class undirected_graph{
         graph.get(3).add(1);
         graph.get(2).add(3); // C-D
         graph.get(3).add(2);
+        graph.get(2).add(2);
 
 
         System.out.println("Adjacency List:");

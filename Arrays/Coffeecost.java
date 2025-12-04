@@ -82,25 +82,8 @@ It is possible to make desserts with cost 8 and 10. Return 8 as it is the lower 
 
 
  */
-package Arrays;
 
-public class Coffeecost {
-    
-}
-import java.util.*;
-public class CoffeeCostCalculator {
-    private int best;
-    private int target;
-    private int[] addons;
 
-    public int closestDrinkCost(int[] baseCosts, int[] addonCosts, int target) {
-        //return Closest total cost to target integer
-        //WRITE YOUR CODE HERE
-        
-    }
-
-}
-package Arrays;
 import java.util.*;
 
 public class Coffeecost {

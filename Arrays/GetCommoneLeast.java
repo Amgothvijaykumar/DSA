@@ -1,4 +1,4 @@
-package Arrays;
+
 
 class GetCommoneLeast {
     static int getCommon(int[] nums1, int[] nums2) {

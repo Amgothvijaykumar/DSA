@@ -23,7 +23,7 @@ Output: true
 
  */
 
-package Arrays;
+
 import java.util.*;
 public class ContainDuplicates {
     static boolean Duplicates(int[] nums){

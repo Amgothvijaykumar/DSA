@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.*;
 public class sortedSquares2p {
     public static int[] sorted(int[] nums){

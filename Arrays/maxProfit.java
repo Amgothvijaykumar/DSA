@@ -1,4 +1,4 @@
-package Arrays;
+
 
 public class maxProfit {
     static int maxP(int[] prices){

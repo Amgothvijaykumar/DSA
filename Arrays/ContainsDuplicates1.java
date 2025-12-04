@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.*;
 public class ContainsDuplicates1 {
     static boolean Duplicates(int[] nums){

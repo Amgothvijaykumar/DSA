@@ -44,3 +44,7 @@ public class DFS {
         g.DFS(0);
     }
 }
+
+
+//The DFS starting from vertex 0:
+//0 1 2 4 3 
